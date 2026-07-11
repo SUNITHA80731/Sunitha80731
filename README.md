@@ -147,21 +147,6 @@ Hi, I'm **Sunitha V Ch**, a Computer Science Engineering student passionate abou
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-### ⛓️ Blockchain
-<p>
-  <img src="https://skillicons.dev/icons?i=basic(solidity,ethereum)" />
-</p>
-
-### 📊 Data Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb" />
-</p>
-
-### 🔐 Security
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git" />
-</p>
-
 ### ⚡ Distributed Systems
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" />
