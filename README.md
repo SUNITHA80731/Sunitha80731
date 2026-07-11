@@ -231,17 +231,105 @@ My engineering mindset is simple: **build with clarity, optimize for impact, and
 
 ## 🌱 Currently Exploring
 
-- AI Agents
-- LLM Engineering
-- System Design
-- Cloud Native Development
-- Kubernetes
-- Distributed Computing
-- High Performance Systems
-- Blockchain Infrastructure
-- Agentic AI
-- RAG Systems
-- Multi-Agent Systems
+## 💻 Technical Skills
+
+### 🐍 Programming Languages
+- Python
+- SQL
+- JavaScript
+- HTML5
+- CSS3
+
+### 🎨 Frontend Development
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+### ⚙️ Backend Development
+- Python
+- Flask
+- Node.js
+- Express.js
+- REST APIs
+
+### 🗄️ Databases
+- MySQL
+- MongoDB
+
+### 📊 Data Analytics & Visualization
+- Power BI
+- SQL
+- Microsoft Excel
+
+### ⛓️ Blockchain
+- Solidity
+- Hardhat
+- Ethereum
+- Smart Contracts
+
+### ☁️ Cloud & Version Control
+- AWS (Cloud Practitioner - Learning)
+- Git
+- GitHub
+
+---
+
+## 🏆 Experience & Achievements
+
+✔️ Python Internship (Hands-on Python Development)
+
+✔️ Built Full Stack Web Applications using React.js, Node.js, Express.js, Flask, and MongoDB
+
+✔️ Developed Blockchain-Based Voting System using Solidity, Hardhat, and Ethereum
+
+✔️ Created Hospital Management System using Python, Flask, and MySQL
+
+✔️ Built Amazon Review Analytics Dashboard using Power BI and SQL
+
+✔️ Participated in National Hackathons and Innovation Challenges
+
+✔️ Strong understanding of Database Management using MySQL and MongoDB
+
+✔️ Experience with Git & GitHub for Version Control and Collaboration
+
+✔️ Currently learning AWS Cloud Fundamentals
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python
+- React.js
+- Node.js & Express.js
+- MongoDB
+- AWS Cloud Fundamentals
+- Blockchain Development
+- Power BI Dashboard Development
+- REST API Development
+- Git & GitHub Best Practices
+
+---
+
+## 🚀 Core Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,express,flask,mysql,mongodb,git,github,aws,solidity,vscode" />
+</p>
+
+---
+
+## 🎯 Areas of Interest
+
+- Python Development
+- Full Stack Web Development
+- Database Management
+- Data Analytics
+- Blockchain Development
+- Cloud Computing
+- Software Engineering
+- Problem Solving
+- Open Source Learning
 
 ---
 
