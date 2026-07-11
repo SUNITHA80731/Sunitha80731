@@ -31,7 +31,7 @@
 
 Hi, I'm **Sunitha V Ch**, a Computer Science Engineering student passionate about building practical software solutions.
 
-💻 Skilled in **Python, SQL, MySQL, MongoDB, HTML, CSS, React.js, Node.js, Express.js, Flask, Power BI, and Blockchain Development**.
+💻 Skilled in **Python, MySQL, MongoDB, HTML, CSS, Power BI**.
 
 🚀 Completed a **Python Internship at EZT**, where I developed a Flask-based Software Dependency Auditor, gaining hands-on experience in backend development, API integration, and file parsing.
 
