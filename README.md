@@ -27,16 +27,17 @@
 </p>
 
 ---
+## 👋 About Me
 
-## 🚀 About Me
+Hi, I'm **Sunitha V Ch**, a Computer Science Engineering student passionate about building practical software solutions.
 
-I am **Sunitha V Ch**, a **B.E. Computer Science & Engineering** student passionate about building practical, scalable, and user-friendly software.
+💻 Skilled in **Python, SQL, MySQL, MongoDB, HTML, CSS, React.js, Node.js, Express.js, Flask, Power BI, and Blockchain Development**.
 
-I enjoy working across **Python, data analytics,salesforce and cloud technologies**, with a strong interest in solving real business problems through technology.
+🚀 Completed a **Python Internship at EZT**, where I developed a Flask-based Software Dependency Auditor, gaining hands-on experience in backend development, API integration, and file parsing.
 
-My engineering mindset is simple: **build with clarity, optimize for impact, and keep learning continuously**. I like creating projects that are useful, production-minded, and recruiter-friendly.
+🏆 **AWS Certified Cloud Practitioner** | **MongoDB Associate Developer**
 
-**Core interests:** Python development, SQL, web development, Power BI, MongoDB, blockchain, AI, and modern software engineering.
+🌱 I enjoy solving real-world problems, participating in hackathons, learning new technologies, and building scalable applications through continuous learning and collaboration.
 
 ---
 
@@ -56,10 +57,6 @@ My engineering mindset is simple: **build with clarity, optimize for impact, and
   </tr>
   <tr>
   
-    <td><b>Hackathons</b></td>
-    <td>Top 5 team in one hackathon, top 10 team in another competition</td>
-  </tr>
-  <tr>
     <td><b>Certifications</b></td>
     <td>SQL certification, AWS learning, Salesforce Trailblazer activity</td>
   </tr>
