@@ -32,7 +32,7 @@
 
 I am **Sunitha V Ch**, a **B.E. Computer Science & Engineering** student passionate about building practical, scalable, and user-friendly software.
 
-I enjoy working across **Python, full stack development, data analytics, blockchain, and cloud technologies**, with a strong interest in solving real business problems through technology.
+I enjoy working across **Python, data analytics,salesforce and cloud technologies**, with a strong interest in solving real business problems through technology.
 
 My engineering mindset is simple: **build with clarity, optimize for impact, and keep learning continuously**. I like creating projects that are useful, production-minded, and recruiter-friendly.
 
@@ -45,12 +45,7 @@ My engineering mindset is simple: **build with clarity, optimize for impact, and
 <table>
   <tr>
     <td><b>LeetCode</b></td>
-    <td>Problem-solving practice and DSA growth</td>
-  </tr>
-  <tr>
-    <td><b>CodeChef</b></td>
-    <td>Competitive coding practice</td>
-  </tr>
+    <td>Problem-solving practice
   <tr>
     <td><b>GeeksforGeeks</b></td>
     <td>DSA, algorithms, and concepts</td>
@@ -60,10 +55,7 @@ My engineering mindset is simple: **build with clarity, optimize for impact, and
     <td>SQL, Python, and coding challenges</td>
   </tr>
   <tr>
-    <td><b>Codeforces</b></td>
-    <td>Algorithmic problem solving</td>
-  </tr>
-  <tr>
+  
     <td><b>Hackathons</b></td>
     <td>Top 5 team in one hackathon, top 10 team in another competition</td>
   </tr>
@@ -137,12 +129,12 @@ My engineering mindset is simple: **build with clarity, optimize for impact, and
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=,html,css" />
 </p>
 
 ### ⚙️ Backend Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=basic(nodejs,express,flask)" />
 </p>
 
 ### 🗄️ Databases
@@ -157,12 +149,12 @@ My engineering mindset is simple: **build with clarity, optimize for impact, and
 
 ### 🤖 Artificial Intelligence
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 ### ⛓️ Blockchain
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+  <img src="https://skillicons.dev/icons?i=basic(solidity,ethereum)" />
 </p>
 
 ### 📊 Data Engineering
@@ -177,7 +169,7 @@ My engineering mindset is simple: **build with clarity, optimize for impact, and
 
 ### ⚡ Distributed Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ---
@@ -265,7 +257,6 @@ My engineering mindset is simple: **build with clarity, optimize for impact, and
 ### ⛓️ Blockchain
 - Solidity
 - Hardhat
-- Ethereum
 - Smart Contracts
 
 ### ☁️ Cloud & Version Control
