@@ -57,9 +57,7 @@ Hi, I'm **Sunitha V Ch**, a Computer Science Engineering student passionate abou
   </tr>
   <tr>
   
-    <td><b>Certifications</b></td>
-    <td>SQL certification, AWS learning, Salesforce Trailblazer activity</td>
-  </tr>
+
   <tr>
     <td><b>Leadership</b></td>
     <td>Team collaboration, presentation, and project execution</td>
